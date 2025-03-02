@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Visualizations",
+    "section": "",
+    "text": "Total GES Quebec\nPreu habitatge"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Visualizations",
-    "section": "",
-    "text": "Total GES Quebec\nGES Quebec par secteurs."
   }
 ]
